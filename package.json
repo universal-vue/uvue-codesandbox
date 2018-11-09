@@ -1,5 +1,13 @@
 {
   "name": "uvue",
+  "description": "UVue - Build universal Vue applications with ease",
+  "keywords": [
+    "vue",
+    "ssr",
+    "universal",
+    "static",
+    "modern"
+  ],
   "version": "0.1.0",
   "private": true,
   "scripts": {
