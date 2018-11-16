@@ -9,8 +9,10 @@
 </template>
 
 <style>
+@import url('https://fonts.googleapis.com/css?family=Nunito:300,400');
+
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: 'Nunito', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
